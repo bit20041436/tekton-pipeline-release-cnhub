@@ -1,2 +1,2 @@
-# tekton-pipeline-release-cnhub
-kubectl  file for installing tekton pipeline with docker hub mirror
+# tektoncd-dockerhub-mirrors
+tektoncd DockerHub 镜像
