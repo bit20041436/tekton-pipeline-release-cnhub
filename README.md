@@ -1,2 +1,2 @@
-# tektoncd-dockerhub-mirrors
-tektoncd DockerHub 镜像
+# tektoncd-pipeline-patch
+tektoncd DockerHub patch
